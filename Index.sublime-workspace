@@ -1,0 +1,663 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"fill",
+				"fillcolor\tattribute"
+			],
+			[
+				"a",
+				"acumulador"
+			],
+			[
+				"li",
+				"lista2"
+			],
+			[
+				"f",
+				"finMenu"
+			],
+			[
+				"pr",
+				"produc"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"nom",
+				"nombre2"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"d",
+				"datos2"
+			],
+			[
+				"lista",
+				"listaGramatica"
+			],
+			[
+				"lis",
+				"listaGramatica"
+			],
+			[
+				"p",
+				"persona"
+			],
+			[
+				"m",
+				"miau"
+			],
+			[
+				"al",
+				"alfabeto"
+			],
+			[
+				"g",
+				"Gramatica3"
+			],
+			[
+				"es",
+				"EscogerValidarCadenaUnaPasada"
+			],
+			[
+				"v",
+				"validarCadenaUnaPada1"
+			],
+			[
+				"tr",
+				"transicion3"
+			],
+			[
+				"tran",
+				"transicion1"
+			],
+			[
+				"ap",
+				"apilar"
+			],
+			[
+				"e",
+				"EscogerRutaValidarCadenaAP"
+			],
+			[
+				"r",
+				"rutaValidacionAP3"
+			],
+			[
+				"rut",
+				"rutaValidacionAP1"
+			],
+			[
+				"con",
+				"contador"
+			],
+			[
+				"E",
+				"EscogerValidarCadenaAP"
+			],
+			[
+				"A",
+				"AP1"
+			],
+			[
+				"V",
+				"ValidarCadenaAP2"
+			],
+			[
+				"transi",
+				"transicion2"
+			],
+			[
+				"trans",
+				"transicion2"
+			],
+			[
+				"mo",
+				"mostrarPila"
+			],
+			[
+				"va",
+				"validandoAutomataPD1"
+			],
+			[
+				"num",
+				"numLetras"
+			],
+			[
+				"ds",
+				"desapilar"
+			],
+			[
+				"i",
+				"items"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"AP",
+				"AP1"
+			],
+			[
+				"line",
+				"lineas"
+			],
+			[
+				"S",
+				"Salir"
+			],
+			[
+				"G",
+				"Gramatica5"
+			],
+			[
+				"Au",
+				"AutomataDePilaGramatica5"
+			],
+			[
+				"Auto",
+				"AutomataDePilaGramatica1"
+			],
+			[
+				"cadena",
+				"cadena55"
+			],
+			[
+				"alfa",
+				"alfabeto1"
+			],
+			[
+				"cade",
+				"cadena"
+			],
+			[
+				"nod",
+				"nodo3"
+			],
+			[
+				"nodo",
+				"nodo4"
+			],
+			[
+				"esta",
+				"estadosDePila"
+			],
+			[
+				"Ga",
+				"Gramatica5"
+			],
+			[
+				"Gramatica",
+				"Gramatica3"
+			],
+			[
+				"Gr",
+				"Gramatica5"
+			],
+			[
+				"mos",
+				"mostrarNombresArbolesDeDerivacion"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"ca",
+				"cadena"
+			],
+			[
+				"not",
+				"noTermiInicial"
+			],
+			[
+				"M",
+				"MostrarInformacionGeneralGLC"
+			],
+			[
+				"C",
+				"cargarArchivoGLC"
+			],
+			[
+				"cad",
+				"cadena"
+			],
+			[
+				"gra",
+				"Gramatica3"
+			],
+			[
+				"LI",
+				"lineas"
+			],
+			[
+				"lin",
+				"lineas"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"o",
+				"opcionEstados"
+			],
+			[
+				"di",
+				"dici"
+			],
+			[
+				"estado",
+				"estados"
+			],
+			[
+				"estad",
+				"estados"
+			],
+			[
+				"LIS",
+				"lista"
+			],
+			[
+				"est",
+				"estados"
+			],
+			[
+				"en",
+				"Entrada"
+			],
+			[
+				"Mod",
+				"ModuloAFD"
+			],
+			[
+				"R",
+				"Regular"
+			],
+			[
+				"for",
+				"format"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/nefar/OneDrive/Escritorio/nuevoRepositorio"
+	],
+	"file_history":
+	[
+		"/C/Users/nefar/OneDrive/Escritorio/nuevoRepositorio/javaScript.js",
+		"/C/Users/nefar/OneDrive/Escritorio/nuvaPagina/nuevoRepositorio/Estilos.css",
+		"/C/Users/nefar/OneDrive/Escritorio/nuvaPagina/nuevoRepositorio/Index.html",
+		"/C/Users/nefar/OneDrive/Escritorio/nuvaPagina/nuevoRepositorio/miJavaScrip.js",
+		"/C/Users/nefar/OneDrive/Escritorio/nuvaPagina/index.html",
+		"/C/Users/nefar/OneDrive/Escritorio/nuvaPagina/estilos.css",
+		"/C/Users/nefar/OneDrive/Escritorio/SegundaPrueba/index.html",
+		"/C/Users/nefar/OneDrive/Escritorio/SegundaPrueba/estilos.css",
+		"/C/Users/nefar/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/nefar/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/nefar/OneDrive/Escritorio/gitDePrueba/index.html",
+		"/C/Users/nefar/OneDrive/Escritorio/gitDePrueba/estilos.css",
+		"/C/Users/nefar/OneDrive/Escritorio/gitDePrueba/estilo.css",
+		"/C/Users/nefar/OneDrive/Escritorio/pruebaGit/index.html",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/ejemplodo.dot",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/comprobandoMetodo.py",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/Persona.py",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/OrientadObjeto.py",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/AseGato2.py",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/claseGato.py",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/gramaticas.glc",
+		"/C/Users/nefar/OneDrive/Escritorio/Nueva carpeta/hola.txt",
+		"/C/Users/nefar/Desktop/Nueva carpeta/Persona.py",
+		"/C/Users/nefar/Desktop/Nueva carpeta/gramaticas.glc",
+		"/C/Users/nefar/Desktop/Nueva carpeta/claseGato.py",
+		"/C/Users/nefar/Desktop/Nueva carpeta/AseGato2.py",
+		"/C/Users/nefar/Desktop/claseGato.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/paraIniciarPrograma.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/reporteAP1.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/reporteAP2.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/reporteAP3.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/AutomataDePilaGramatica1.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/validarCadenaUnaPada1.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/validarCadenaUnaPada2.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/validarCadenaUnaPada3.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/EscogerValidarCadenaUnaPasada.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/ModuloAutomataDePila.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/EscogerRutaValidarCadenaAP.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/rutaValidacionAP3.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/ValidarCadenaAP2.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/rutaValidacionAP2.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/rutaValidacionAP1.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/arbolGramatica3.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/EscogerValidarCadenaAP.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/ValidarCadenaAP3.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/ValidarCadenaAP1.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/escogerAutomataDePila.py",
+		"/C/Users/nefar/Desktop/prueba/Pila.py",
+		"/C/Users/nefar/Desktop/prueba/recorrerLista.py",
+		"/C/Users/nefar/Desktop/prueba/PruebaPilas.py",
+		"/C/Users/nefar/Desktop/prueba/leer.py",
+		"/C/Users/nefar/Desktop/prueba/pruebaGrafica.py",
+		"/C/Users/nefar/Desktop/prueba/trurnos.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/CrearGramatica.py",
+		"/C/Users/nefar/Desktop/LFyPVersinAntigua/CrearAFD.py",
+		"/C/Users/nefar/Desktop/LFyPVersinAntigua/CargarArchivoDeEntradaGR.py",
+		"/C/Users/nefar/Desktop/LFyPVersinAntigua/generarGramaticaRegular.py",
+		"/C/Users/nefar/Desktop/LFyPVersinAntigua/graficaAFD.py",
+		"/C/Users/nefar/Desktop/prueba/manipularArchivo.py",
+		"/C/Users/nefar/Desktop/prueba/aa.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/automatas.ap",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/AutomataDePilaGramatica3.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/AutomataDePilaGramatica5.py",
+		"/C/Users/nefar/Desktop/prueba/cargarArchivoGLC.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/cargarArchivoAP.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/EscogerArbolDeDerovacion.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/ArbolerDeDerivacion.py",
+		"/C/Users/nefar/Desktop/archivos_P2_lenguajes/automatas.ap",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/cargarArchivoGLC.py",
+		"/C/Users/nefar/Desktop/archivos_P2_lenguajes/gramaticas.glc",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/ArbolGramatica5.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/ModuloGramaticaLC.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/EscogerAutomataDePIlaGRL.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/MostrarInformacionGeneralGLC.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/gramaticas.glc",
+		"/C/Users/nefar/Desktop/Ejemplo pdf/main.py",
+		"/C/Users/nefar/Desktop/prueba/gramaticas.glc",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto2_199919737/arbol.dot",
+		"/C/Users/nefar/Desktop/prueba/arbol.dot",
+		"/C/Users/nefar/Desktop/prueba/archivo.dot",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/CrearAFD.py",
+		"/C/Users/nefar/Desktop/Ejemplo graphviz/main.py",
+		"/C/Users/nefar/Desktop/Ejemplo graphviz/curso.py",
+		"/C/Users/nefar/Desktop/curso.py",
+		"/C/Users/nefar/Desktop/diccionario.py",
+		"/C/Users/nefar/Desktop/main.py",
+		"/C/Users/nefar/Desktop/Ejemplo completo graphviz.zip",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/ValidarAlfabetoAFD.py",
+		"/C/Users/nefar/Desktop/LFPpractica1/ingreseCodigoCurso.py",
+		"/C/Users/nefar/Desktop/LFPpractica1/envioDiccionario.py",
+		"/C/Users/nefar/Desktop/LFPpractica1/archivo.py",
+		"/C/Users/nefar/Desktop/LFyPVersinAntigua/evaluarCadena.py",
+		"/C/Users/nefar/Desktop/prueba/gramaticas.txt",
+		"/C/Users/nefar/Desktop/prueba/tribu.txt",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/CargarArchivoDeEntradaGR.py",
+		"/C/Users/nefar/Desktop/gramaticas.glc.txt",
+		"/C/Users/nefar/Desktop/prueba/gramaticas.glc.txt",
+		"/C/Users/nefar/Desktop/MetodoArbol.rar",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/PRUEBA.afd",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/PresentacionPantallaInicial.py",
+		"/C/Users/nefar/Desktop/ll/main.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/ModuloAFD.PY",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/CargarArchivo.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/archivoAFD.afd",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/ModuloGR.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/mostrarEnPantallaTodosLosAFD.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/evaluarCadena.py",
+		"/C/Users/nefar/Desktop/Ejemplo pdf.zip",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/ValidacionCompe.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/pruebaNose.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/PantallaInicial.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/guardarGRenArchivo.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/pruebaImposible.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/graficaAFD.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/generarGramaticaRegular.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/Automata1.afd",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/Automata4.afd",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/PruebaArchivo.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/agendaarchivo.afd",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/diccionario.py",
+		"/C/Users/nefar/Desktop/agendaarchivo.afd",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/MenuPrincipal.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/pruebaDiccionaroArchivo.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/agendaarchivo.txt",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/agendaarchivo.afd1",
+		"/C/Users/nefar/Desktop/LFPpractica1/agregarCurso.py",
+		"/C/Users/nefar/Desktop/LFPpractica1/editarCurso.py",
+		"/C/Users/nefar/Desktop/[LFP]Proyecto1_199919737/EjemploClase.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tupla",
+			"6",
+			"op"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
