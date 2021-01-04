@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"i",
+				"id\tAttr"
+			],
+			[
 				"onC",
 				"onclick\tAttr"
 			],
@@ -184,10 +188,6 @@
 				"desapilar"
 			],
 			[
-				"i",
-				"items"
-			],
-			[
 				"le",
 				"left"
 			],
@@ -351,7 +351,16 @@
 			"file": "Index.html",
 			"settings":
 			{
-				"buffer_size": 520,
+				"buffer_size": 538,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Estilos.css",
+			"settings":
+			{
+				"buffer_size": 139,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -360,7 +369,8 @@
 			"file": "saludo.js",
 			"settings":
 			{
-				"buffer_size": 42,
+				"buffer_size": 90,
+				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "funtion saludo(){"
 			}
@@ -406,9 +416,12 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 192.0,
 		"history":
 		[
+			"print conteo",
+			"conteo = 1",
+			"git status -s"
 		]
 	},
 	"distraction_free":
@@ -600,15 +613,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 520,
+						"buffer_size": 538,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								333,
-								333
+								538,
+								538
 							]
 						],
 						"settings":
@@ -616,7 +629,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 207.0,
+						"translation.y": 253.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -624,19 +637,47 @@
 				},
 				{
 					"buffer": 1,
-					"file": "saludo.js",
+					"file": "Estilos.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 42,
+						"buffer_size": 139,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4,
-								4
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "saludo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
 							]
 						],
 						"settings":
