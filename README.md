@@ -29,7 +29,7 @@ El sistema incluye funciones de autenticación, registro de usuarios, administra
 - **PrimeFlex** (para grid y estilos)
 
 Instalación de dependencias:
-```bash
+
 npm install primereact primeicons primeflex
 
 ## 1. Login.jsx
@@ -65,7 +65,7 @@ Componente encargado de gestionar el inicio de sesión de usuarios (administrado
   - Enlace de registro.  
 
 ### Ejemplo de uso
-```bash
+
 # Usuario administrador
 usuario: admin
 contraseña: 1234
@@ -132,7 +132,7 @@ Componente de **registro de usuario** que permite capturar datos personales, val
   - `encabezadoPersonalizado(options)` → personaliza la barra del `FileUpload`.  
 
 ### Ejemplo de uso
-```bash
+
 # Campos válidos:
 Nombre: Juan
 Apellido: Pérez
@@ -197,7 +197,7 @@ Permite registrar entradas y salidas, visualizar gráficos estadísticos sobre l
   - `chart6` → Gráfico comparativo de espacios disponibles entre autos y motos.  
 
 ### Ejemplo de uso
-```bash
+
 # Al hacer clic en "Registrar Entrada":
 → Se muestra el formulario RegistroParqueo
 
@@ -276,7 +276,7 @@ Permite seleccionar un vehículo, calcular el monto a pagar y generar un recibo 
   - `generarRecibo(e)` → muestra un recibo simulado en un `alert`.  
 
 ### Ejemplo de interacción
-```bash
+
 # Caso 1: Usuario auto
 Usuario: Carlos
 Tipo Vehículo: Auto
