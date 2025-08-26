@@ -292,7 +292,7 @@ Vehículo: Moto 2
 Fecha Salida: 25/08/2025 16:01:55
 Monto: Q10.00
 → "Recibo generado: Usuario Ana, Vehículo Moto 2, Monto Q10.00"
-```
+
 
 
 
