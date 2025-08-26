@@ -198,16 +198,16 @@ Permite registrar entradas y salidas, visualizar gráficos estadísticos sobre l
 
 ### Ejemplo de uso
 
-# Al hacer clic en "Registrar Entrada":
+### Al hacer clic en "Registrar Entrada":
 → Se muestra el formulario RegistroParqueo
 
-# Al hacer clic en "Autos":
+### Al hacer clic en "Autos":
 → Se muestra un gráfico de barras con ocupación de autos por día
 
-# Al hacer clic en "Comparativa":
+### Al hacer clic en "Comparativa":
 → Se muestra un gráfico comparativo Autos/Motos
 
-# Al hacer clic en "Cerrar sesión":
+### Al hacer clic en "Cerrar sesión":
 → Se limpia el estado y se redirige a /
 
 ## 4. ParkingLotApp.jsx
@@ -225,14 +225,14 @@ Permite seleccionar espacios según las reglas definidas por el tipo de vehícul
   ```js
   { tipo: "auto" | "moto" | "largo", ocupado: true | false }
 
-# Usuario selecciona un espacio tipo "auto" estando libre:
+### Usuario selecciona un espacio tipo "auto" estando libre:
 → Espacio marcado como seleccionado
 → Callback ejecutado: { id: 1, tipo: "auto", ocupado: false }
 
-# Usuario selecciona un espacio ocupado:
+### Usuario selecciona un espacio ocupado:
 → Error: "Este espacio ya está ocupado"
 
-# Usuario selecciona un espacio tipo "moto" pero es estacionamiento por día:
+### Usuario selecciona un espacio tipo "moto" pero es estacionamiento por día:
 → Advertencia: "Selecciona un espacio de largo plazo"
 
 
@@ -277,7 +277,7 @@ Permite seleccionar un vehículo, calcular el monto a pagar y generar un recibo 
 
 ### Ejemplo de interacción
 
-# Caso 1: Usuario auto
+### Caso 1: Usuario auto
 Usuario: Carlos
 Tipo Vehículo: Auto
 Vehículo: Auto 1
@@ -285,7 +285,7 @@ Fecha Salida: 25/08/2025 15:45:10
 Monto: Q20.00
 → "Recibo generado: Usuario Carlos, Vehículo Auto 1, Monto Q20.00"
 
-# Caso 2: Usuario moto
+### Caso 2: Usuario moto
 Usuario: Ana
 Tipo Vehículo: Moto
 Vehículo: Moto 2
